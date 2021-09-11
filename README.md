@@ -1,5 +1,6 @@
 # c-project
 This is for midterm C project
+// This is a test
 
 
 #include<stdio.h>
